@@ -1,0 +1,42 @@
+# to-do list add list 
+import { useState } from 'react';
+
+# 할일을 입력하는 파트
+function TextInput({ onAdd }) {
+  const [text, setText] = useState('');
+# 조건 중 하나인 20자를 넘으면 안된다에 해당하는 코드이다
+  const isOverLimit = text.length > 20;
+  const isDisabled = text.trim() === '' || isOverLimit;
+
+  const handleSubmit = () => {
+    if (isDisabled) return;
+    onAdd(text);
+    setText('');
+  };
+
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      handleSubmit();
+    }
+  };
+
+  return (
+    <div>
+      <input
+        type="text"
+        value={text}
+        onChange={(e) => setText(e.target.value)}
+        onKeyDown={handleKeyDown}
+        placeholder="할 일을 입력하세요"
+      />
+      <button onClick={handleSubmit} disabled={isDisabled}>
+        추가
+      </button>
+
+      <div>{text.length} / 20자</div>
+      {isOverLimit && <p style={{ color: 'red' }}>20자를 초과할 수 없습니다.</p>}
+    </div>
+  );
+}
+
+export default TextInput;
