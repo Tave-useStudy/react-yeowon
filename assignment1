@@ -1,0 +1,22 @@
+1. to-do list
+# 할 일 입력 추가, 할 일 목록 렌더링, 랜덤 유저 API 호출 
+
+function TaskList({ todos, onToggle, onDelete }) {
+  return (
+    <ul>
+      {todos.map((todo) => (
+        <li key={todo.id}>
+          <span style={{ textDecoration: todo.done ? 'line-through' : 'none' }}>
+            {todo.text}
+          </span>
+          <button onClick={() => onToggle(todo.id)}>
+            {todo.done ? '취소' : '완료'}
+          </button>
+          <button onClick={() => onDelete(todo.id)}>삭제</button>
+        </li>
+      ))}
+    </ul>
+  );
+}
+
+export default TaskList;
