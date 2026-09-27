@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\todo-app\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\SettingPage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\SettingPage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\DetailPage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\DetailPage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\HomePage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\HomePage.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\UserProfile.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\UserProfile.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\FilterBar.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\FilterBar.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TaskList.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\TaskList.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TextInput.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\TextInput.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\todo-app\\src\\main.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\App.jsx",
+              "RelativeDocumentMoniker": "App.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\App.jsx",
+              "RelativeToolTip": "App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:43:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\HomePage.jsx",
+              "RelativeDocumentMoniker": "pages\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\HomePage.jsx",
+              "RelativeToolTip": "pages\\HomePage.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:39:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailPage.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\DetailPage.jsx",
+              "RelativeDocumentMoniker": "pages\\DetailPage.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\DetailPage.jsx",
+              "RelativeToolTip": "pages\\DetailPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:39:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingPage.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\SettingPage.jsx",
+              "RelativeDocumentMoniker": "pages\\SettingPage.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\pages\\SettingPage.jsx",
+              "RelativeToolTip": "pages\\SettingPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:39:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\UserProfile.jsx",
+              "RelativeDocumentMoniker": "components\\UserProfile.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\UserProfile.jsx",
+              "RelativeToolTip": "components\\UserProfile.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:38:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterBar.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\FilterBar.jsx",
+              "RelativeDocumentMoniker": "components\\FilterBar.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\FilterBar.jsx",
+              "RelativeToolTip": "components\\FilterBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:38:37.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskList.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TaskList.jsx",
+              "RelativeDocumentMoniker": "components\\TaskList.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TaskList.jsx",
+              "RelativeToolTip": "components\\TaskList.jsx",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwF0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:38:21.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextInput.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TextInput.jsx",
+              "RelativeDocumentMoniker": "components\\TextInput.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\components\\TextInput.jsx",
+              "RelativeToolTip": "components\\TextInput.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:38:04.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\todo-app\\src\\main.jsx",
+              "RelativeDocumentMoniker": "main.jsx",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\todo-app\\src\\main.jsx",
+              "RelativeToolTip": "main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-09-27T15:40:03.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
